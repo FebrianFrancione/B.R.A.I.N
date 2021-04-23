@@ -11,3 +11,6 @@ For sake of context, add CNN.
 Networking:
 
 Make different parts of brain act as "servers" that can communicate through data transfer with each other.
+
+Documentation:
+Add sequence diagram, class diagram, Use Cases
