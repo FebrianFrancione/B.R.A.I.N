@@ -14,3 +14,11 @@ Make different parts of brain act as "servers" that can communicate through data
 
 Documentation:
 Add sequence diagram, class diagram, Use Cases
+
+Front-End:
+Use javascript and other frameworks - Node? Express? ReaCT/ANGULAR with mongoDB backend?
+Make images of brain and create obstacles for it to navigate through. Offer visual representations of sections of brain
+as they communicate.
+
+Backend:
+Networking parts of brain and connecting them to each other
