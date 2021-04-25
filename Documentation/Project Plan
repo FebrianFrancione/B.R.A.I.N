@@ -21,4 +21,13 @@ Make images of brain and create obstacles for it to navigate through. Offer visu
 as they communicate.
 
 Backend:
-Networking parts of brain and connecting them to each other
+Networking parts of brain and connecting them to each other.
+
+Database: Store memories or events happening to the brain that can be retrieved as time goes.
+
+add a system that allows "aging" or memories which will then be transferred to more specialized long-term storage.
+
+Mysql/MongoDB?
+
+Brain section:
+Add different lobes, keep the intercommunication as basic as possible in order to maintain simplicity and reduction of scale.
