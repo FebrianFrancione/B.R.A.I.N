@@ -36,3 +36,7 @@ Unit testing:
 Agile with Test-Driven development.
 
 Add unit tests to ensure reliability and refactor code afterwards.
+
+Framework used for main project - Spring?Node? Java allows for easier segmentation of data.
+
+Hosting: Heroku or push to Azure? Add docker/kubernetes for microservices
