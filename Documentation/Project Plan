@@ -31,3 +31,8 @@ Mysql/MongoDB?
 
 Brain section:
 Add different lobes, keep the intercommunication as basic as possible in order to maintain simplicity and reduction of scale.
+
+Unit testing:
+Agile with Test-Driven development.
+
+Add unit tests to ensure reliability and refactor code afterwards.
