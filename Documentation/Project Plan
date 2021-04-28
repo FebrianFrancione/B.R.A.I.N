@@ -40,3 +40,5 @@ Add unit tests to ensure reliability and refactor code afterwards.
 Framework used for main project - Spring?Node? Java allows for easier segmentation of data.
 
 Hosting: Heroku or push to Azure? Add docker/kubernetes for microservices.
+
+Perhaps branch out to different frameworks/languages -> make front end more visually appealing and educational.
